@@ -1,0 +1,1 @@
+1) Creating a bean manually in Spring Boot
