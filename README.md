@@ -6,6 +6,8 @@
 
 2) Rest API operations in Spring Boot
 
+3) Spring Data JPA operations
+
 
 
 ***********************************************************************************************
