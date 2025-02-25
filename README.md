@@ -8,7 +8,7 @@
 
 3) Spring Data JPA operations
 
-4) Build DTO on our spring project
+4-5) Build DTO on our spring project ,@Query , Spring Validations
 
 
 ***********************************************************************************************
